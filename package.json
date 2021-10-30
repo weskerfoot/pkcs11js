@@ -43,7 +43,7 @@
   "author": "PeculiarVentures",
   "license": "MIT",
   "dependencies": {
-    "nan": "^2.14.2"
+    "nan": "^2.15.0"
   },
   "devDependencies": {
     "@types/mocha": "^8.2.3",
